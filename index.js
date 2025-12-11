@@ -43,3 +43,4 @@ app.use('/api/students', studentRoutes);
 
 // const courseRoutes = require('./routes/courses');
 // app.use('/api/courses', courseRoutes);
+//this is index.html
